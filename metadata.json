@@ -1,0 +1,7 @@
+{
+  "name": "Luxury Sofa Quotation Pro",
+  "description": "A high-end Italian-style sofa quotation system for individual and combined modules with professional PDF export functionality.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
